@@ -17,3 +17,6 @@ p{
     font-family: Tahoma;
     font-weight: 100;
 }
+#tribute-link:hover{
+    color: brown;
+}
