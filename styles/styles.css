@@ -3,3 +3,17 @@
     height: auto;
     display: block;
 }
+html{
+    background-color: rgb(226, 43, 205);
+    
+}
+h1{
+    justify-content: center;
+    font-size: 5em;
+    font-weight: bold;
+
+}
+p{
+    font-family: Tahoma;
+    font-weight: 100;
+}
